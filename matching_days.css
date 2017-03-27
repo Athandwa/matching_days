@@ -1,0 +1,59 @@
+.h1 {
+    text-align: center;
+    color: orange;
+    font-style: italic;
+    font-size: 4em;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+    padding-top: 70px;
+}
+
+th {
+    border: 3px solid black;
+    text-align: left;
+    padding: 8px;
+    height: 70px;
+}
+
+.inputBox {
+    padding-top: 120px;
+    border: 3px solid grey;
+    border-width: 40px;
+    background-color: lightblue;
+    padding-bottom: 30px;
+    overflow: auto;
+    width: 60em;
+    margin-top: 20px;
+    height: 80px
+}
+
+html {
+    border: 3px dashed grey;
+    height: 47em;
+    border-radius: 20px;
+    background-color: #FFEFD5;
+}
+
+.box1 {
+    margin-bottom: 50px;
+}
+
+.box2 {
+    margin-bottom: 20px
+}
+
+.color1 {
+    background-color: red;
+}
+
+.color2 {
+    background-color: blue;
+}
+
+.color3 {
+    background-color: green;
+}
